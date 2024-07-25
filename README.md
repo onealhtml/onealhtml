@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**onealhtml/onealhtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
+🎵 Music Producer
+🌎 Brazilian | Native Portuguese, Intermediate English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Journey
+
+I'm a technology enthusiast, constantly seeking new challenges and opportunities to expand my knowledge in:
+
+- 💻 Programming
+- 🤖 Artificial Intelligence
+- 🚀 Software Development
+- 🛠 Software Engineering
+
+## Skills
+
+- Analysis and research
+- Proactivity and dedication
+- Quick learner
+- Creativity (thanks to my experience in music production)
+
+## Goals
+
+🎯 I'm looking for opportunities to:
+- Contribute innovative solutions
+- Grow professionally in a dynamic technology environment
+- Learn new skills and technologies
+
+## Let's Connect!
+
+I'm always open to collaborations and new connections. Feel free to contact me!
