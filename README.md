@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✌️ About Me:
 🎓 Computer Science Student<br>🎵 Music Producer<br>🌎 Brazilian | Native Portuguese, Intermediate English<br>
 
 ## 🌐 Socials:
