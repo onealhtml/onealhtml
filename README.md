@@ -11,7 +11,7 @@
 - 🎵 **Music Producer** blending creativity with technology
 - 🤖 **AI Enthusiast** experienced in Prompt Engineering, RAG, and LLMs
 - 🌎 **Brazilian** | Native Portuguese 🇧🇷, Intermediate English 🇺🇸
-- 🚀 **Always exploring** new technologies and frameworks
+- 🚀 **Always exploring** new technologies
 - 🎯 **Goal-oriented** and detail-focused in every project
 
 ## 🌐 Connect with Me
