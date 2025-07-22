@@ -51,6 +51,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=6419&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha" alt="Hackatime" height="170" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onealhtml&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="170" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=onealhtml&theme=catppuccin_mocha&hide_border=false" alt="Streak Stats" height="170" />
 </div>
