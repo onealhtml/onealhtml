@@ -1,14 +1,12 @@
-# 👋 Hi there, I'm Lorenzo! 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6E3A1&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Science+Student;Music+Producer;AI+Enthusiast;Always+learning+new+things!" alt="Typing SVG" />
+  <h1>👋 Hi there, I'm Lorenzo!</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A6E3A1&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Science+Student;AI+Enthusiast;Music+Producer;Always+learning+new+things!" alt="Typing SVG" />
 </div>
 
 ## ✨ About Me
 
 - 💻 **Software Developer** passionate about creating innovative solutions
 - 🎓 **Computer Science Student** always eager to learn and grow
-- 🎵 **Music Producer** blending creativity with technology
 - 🤖 **AI Enthusiast** experienced in Prompt Engineering, RAG, and LLMs
 - 🌎 **Brazilian** | Native Portuguese 🇧🇷, Intermediate English 🇺🇸
 - 🚀 **Always exploring** new technologies
@@ -20,7 +18,6 @@
   
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABS0lEQVR4nO2ZO0oEQRRFnyhmOoKmgoHuwD0oOI2GomBm6BZMZMCFuAYzx1EXYqb4YUB7IpMjJR01U3a1HXhreAcqu13F4dXr6o+Z4zh/AtgHRsCE/2cC3AJFW4lLdBm0qYQ6/RSRsJ3UGaaIlOjzmSKSBeYiM1aRZ+AQWK3GMfBKhiI7Krdr6yiyPCXfI0ORYkq+T4Yib8AJsFaN0CMvZCgig7nILFXEEq5JyDxUZ9E6sAgsAdvAOfCeg0g4OHcb1l4BrtVFNhsXt5/cAnAvK9IGYAP4khcB5hMyV7IiwBnwVEUfgdNfskeSIsBBm/dvYEtV5C4y7SiS76mKjCPTjiP5OVWRTvPWcZGAV8R8a0XxHgl4j5j3SBTvETWsyyNKbiIl+nykiIS/p+rcpIgU6LPXKFLJDNDlIkmi9pV9KNIzZdhOyZVwHMfqfANKiIQn/4RZwwAAAABJRU5ErkJggg==&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/onealhtml)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/onealhtml)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/onealhtml)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onealhtml@icloud.com)
 
 </div>
